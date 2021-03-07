@@ -194,10 +194,10 @@ class App {
               <div class="toolbar">
                 <img class="toolbar-color" data-id=${
                   note.id
-                } src="https://icon.now.sh/palette">
+                } src="icons/palette.svg">
                 <img data-id=${
                   note.id
-                } class="toolbar-delete" src="https://icon.now.sh/delete">
+                } class="toolbar-delete" src="icons/delete.svg">
               </div>
             </div>
           </div>
